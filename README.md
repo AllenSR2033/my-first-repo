@@ -8,3 +8,5 @@ Hobbies: Gaming, Computers
 Programming Languanges: Python, Java
 
 ![GitHub Logo](Octicons-mark-github.svg)
+
+Amazing
